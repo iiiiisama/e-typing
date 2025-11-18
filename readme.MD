@@ -1,7 +1,7 @@
 
 1. Clone repo này về máy của bạn:
    ```bash
-   git clone https://github.com/mrpoponep/e-typing
+   git clone https://github.com/iiiiisama/e-typing.git
    cd e-typing
 2. Cài đặt các thư viện yêu cầu:
     ```bash
@@ -9,3 +9,4 @@
 3. Chạy script
     ```bash
     py main.py
+
